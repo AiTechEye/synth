@@ -354,7 +354,7 @@ minetest.register_craft({
 	output="synth:synth",
 	recipe={
 		{"default:tin_ingot","default:copper_ingot","default:steel_ingot"},
-		{"default:electric_lump","default:electric_lump","default:electric_lump"},
-		{"materials:plant_extracts","group:wood","materials:plant_extracts"},
+		{"default:mese_crystal","default:mese_crystal","default:mese_crystal"},
+		{"default:steel_ingot","group:wood","default:steel_ingot"},
 	},
 })
