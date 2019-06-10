@@ -42,7 +42,7 @@ synth.form=function(pos)
 			elseif toggle == 1 then
 				note = "synth_timeline.png"
 			else
-				note = "default_air.png"
+				note = "synth_air.png"
 			end
 		end
 
